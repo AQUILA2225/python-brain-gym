@@ -52,8 +52,6 @@ Problems are organized step-by-step:
 3. Try solving before checking solutions
 4. Move step-by-step to advanced topics
 
----
-
 ## Progress Tracker
 
 * [ ] Basics Completed
