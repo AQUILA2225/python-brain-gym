@@ -8,7 +8,7 @@ This isn’t just a collection of problems — it’s your daily workout arena f
 💡 Think → Code → Debug → Improve → Repeat
 That’s the mantra here.
 
-Whether you're preparing for interviews, improving DSA, or just love solving problems — this gym is built to make you stronger, one problem at a time 🚀.
+Whether you're preparing for interviews, improving DSA, or just love solving problems — this gym is built to make you stronger, one problem at a time .
 ## 🎯 Purpose
 
 This repository is designed to:
