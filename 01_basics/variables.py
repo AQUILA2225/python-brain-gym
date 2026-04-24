@@ -64,7 +64,29 @@ b = int(a)
 print("Converted to integer:", b, type(b))
 
 ---------------------------------------
+Other Examples:
+
+name = "Aquila"
+age = 23
+email = "valluribharathi01@gmail.com"
+height = 5.4
+is_free = False
+
+print(name, type(name))
+print(age, type(age))
+print(email, type(email))
+print(height, type(height))
+print(is_free, type(is_free))
+---------------------------------------
+*** Swapping two number
+a = int(input("Enter num 1:"))
+b = int(input("Enter num 2:"))
+
+print("Before swapping:", a, b)
+a, b = b, a
+print("After swapping:", a,b)
+---------------------------------------
+
 Conclusion
 Variables are the basic building blocks of any program.
 They help store and manipulate data efficiently.
-
